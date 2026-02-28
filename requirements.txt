@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep data local)
+data/*.xls
+data/*.xlsx
+data/*.csv
+
+# Plots / outputs
+images/*.png
+images/*.jpg
